@@ -24,6 +24,21 @@ source venv/Scripts/activate
 ```
 API_KEY=<your_api_key>
 ```
-## Run the files 
-## Run the server 
-## Run the streamlit to access a UI to access the chatbot
+## Usage Instructions
+
+1. Run the ingestion_1.py
+  ```
+python ingestion_1.py
+```
+2. Run the chatbot.py
+ ```
+python chatbot.py
+```
+3. Run app.py 
+```
+python app.py
+```
+4. Run ui.py
+```
+streamlit run ui.py
+```
