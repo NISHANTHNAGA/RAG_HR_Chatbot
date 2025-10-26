@@ -1,0 +1,13 @@
+Data Privacy
+
+-Do not expose sensitive HR documents in public repositories.
+-Ensure uploaded documents are stored securely with restricted access.
+
+Environment Variables
+
+-Store sensitive information (API keys, database paths) in .env files.
+-Never commit .env files to version control.
+
+Dependencies
+
+-Keep dependencies up-to-date to avoid known vulnerabilities.
